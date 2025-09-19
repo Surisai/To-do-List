@@ -1,0 +1,8 @@
+5 
+
+- Code everyday. 1
+- Read technical articles.  0 
+- Practice coding problems
+- Collaborate on open source projects
+- Attend tech meetups and webinars
+
