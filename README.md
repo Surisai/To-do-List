@@ -1,5 +1,7 @@
 # To-do-List
 
+![screenshot](image/Screenshot%202025-09-19%20at%201.51.09%E2%80%AFAM.png)
+
 A simple cross-platform to-do list app built with C++ and wxWidgets.
 
 ## Features
